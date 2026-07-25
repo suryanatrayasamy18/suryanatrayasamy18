@@ -88,6 +88,8 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=suryanatrayasamy18&theme=tokyonight&row=1&column=6"/>
 </p>
-## 📈 GitHub Activity Graph
+## 👀 Profile Views
 
-[![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanatrayasamy18&theme=tokyo-night)](https://github.com/suryanatrayasamy18)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=suryanatrayasamy18&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
