@@ -83,7 +83,8 @@
   <img src="https://raw.githubusercontent.com/suryanatrayasamy18/suryanatrayasamy18/output/github-contribution-grid-snake.svg" />
 </p>
 ## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suryanatrayasamy18/suryanatrayasamy18/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<img src="https://github-profile-trophy.vercel.app/?username=suryanatrayasamy18&theme=tokyonight&row=1&column=6"/>
 </p>
