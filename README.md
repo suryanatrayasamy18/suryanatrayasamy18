@@ -39,4 +39,15 @@
 - 🤖 AI Projects
 - ☁ Google Cloud Labs
 - ☕ Java Projects
-- 
+
+- ## 🏆 Certifications
+
+✔ Google Cloud Foundations
+
+✔ Cisco Cybersecurity
+
+✔ Principles of Generative AI
+
+✔ NPTEL
+
+✔ Infosys Springboard
