@@ -74,3 +74,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suryanatrayasamy18&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+## 📈 Contribution Graph
+
+[![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanatrayasamy18&theme=tokyo-night)](https://github.com/suryanatrayasamy18)
