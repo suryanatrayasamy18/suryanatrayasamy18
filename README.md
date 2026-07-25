@@ -88,3 +88,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=suryanatrayasamy18&theme=tokyonight&row=1&column=6"/>
 </p>
+## 📈 GitHub Activity Graph
+
+[![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanatrayasamy18&theme=tokyo-night)](https://github.com/suryanatrayasamy18)
