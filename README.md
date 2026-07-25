@@ -22,3 +22,14 @@
 <img src="https://skillicons.dev/icons?i=java,spring,python,c,git,github,html,css,mysql,vscode,tensorflow,opencv"/>
 
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suryanatrayasamy18&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanatrayasamy18&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanatrayasamy18&layout=compact&theme=tokyonight"/>
+
+</p>
