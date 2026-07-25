@@ -14,3 +14,11 @@
 - 💡 Passionate about Software Development and Real-World Problem Solving
 - ☁ Google Cloud Learner
 - 📫 Reach me: **your email**
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,c,git,github,html,css,mysql,vscode,tensorflow,opencv"/>
+
+</p>
