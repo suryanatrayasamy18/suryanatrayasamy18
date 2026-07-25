@@ -32,4 +32,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanatrayasamy18&layout=compact&theme=tokyonight"/>
 
-</p>
+</p>## 🚀 Featured Projects
+
+- 🌾 Smart Crop Monitoring System
+- 📱 Spam SMS Detection
+- 🤖 AI Projects
+- ☁ Google Cloud Labs
+- ☕ Java Projects
+- 
