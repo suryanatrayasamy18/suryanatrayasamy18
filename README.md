@@ -6,3 +6,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;IoT+Developer" />
 </p>
+## 👨‍💻 About Me
+
+- 🎓 Final-Year Electronics & Communication Engineering Student
+- 🏫 V.S.B. Engineering College
+- 🌱 Currently learning **Java, Spring Boot, AI, Machine Learning, IoT**
+- 💡 Passionate about Software Development and Real-World Problem Solving
+- ☁ Google Cloud Learner
+- 📫 Reach me: **your email**
