@@ -77,3 +77,8 @@
 ## 📈 Contribution Graph
 
 [![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanatrayasamy18&theme=tokyo-night)](https://github.com/suryanatrayasamy18)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryanatrayasamy18/suryanatrayasamy18/output/github-contribution-grid-snake.svg" />
+</p>
