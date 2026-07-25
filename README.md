@@ -51,3 +51,16 @@
 ✔ NPTEL
 
 ✔ Infosys Springboard
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/suryanatrayasamy18/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/suryanatrayasamy18">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
