@@ -26,12 +26,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryanatrayasamy18&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=suryanatrayasamy18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanatrayasamy18&show_icons=true&theme=tokyonight" />
 </p>
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanatrayasamy18&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app?user=suryanatrayasamy18&theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanatrayasamy18&layout=compact&theme=tokyonight" />
 </p>
 ## 🚀 Featured Projects
 
