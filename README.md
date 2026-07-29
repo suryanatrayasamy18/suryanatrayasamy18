@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png.png" alt="Surya Banner" width="100%">
+  <img src="banner.png" alt="Surya Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Surya N N</h1>
 
